@@ -1,7 +1,7 @@
 # Motorcycle Helmet Detection using YOLOv8 and DeepSORT
 
-This project focuses on developing a system for detecting motorcycle helmets using YOLOv8 and DeepSORT. 
-
+Detect motorcycle helmets using YOLOv8 and DeepSORT for enhanced road safety.
+ 
 ## Objective
 To enhance road safety in the Philippines by accurately identifying different types of motorcycle helmets in various conditions.
 
